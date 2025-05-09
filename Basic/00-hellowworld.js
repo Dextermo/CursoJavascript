@@ -1,0 +1,11 @@
+console.log("Hello word")
+console.log('Hello word')
+console.log(`Hello word`)
+
+console.log('5')
+console.log(5)
+console.log(5-2)
+console.log(5 *2)
+console.log(5 % 2)
+console.log(5 ** 2)
+console.log(5 / 2)
